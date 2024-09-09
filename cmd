@@ -1,3 +1,5 @@
+docker exec -it resourcemanager bash
+
 hdfs dfs -mkdir -p /user/hadoop/input
 
 mkdir -p /user/hadoop/input
